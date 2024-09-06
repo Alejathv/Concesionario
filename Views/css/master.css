@@ -29,7 +29,8 @@ html {
 
 
 main.login {
-    background: url(../imgs/file.png) no-repeat center;
+    background: url(../imgs/mujer\ florita.jpg) no-repeat center;
+    background-size: cover;
     border-radius: 40px;
     height: 785px;
     margin: 20px auto;
@@ -99,7 +100,7 @@ main.login.register form input:nth-child(4) {
 } */
 
 #home h2 {
-    color: #fff;
+    color: #0b0b0b;
     font-size: 32px;
     width: 100%;
     text-align: center;
