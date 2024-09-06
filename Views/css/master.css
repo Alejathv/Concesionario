@@ -107,7 +107,7 @@ main.login.register form input:nth-child(4) {
 
 #home h2 {
     color: #0b0b0b;
-    font-size: 32px;
+    font-size: 40px;
     width: 100%;
     text-align: center;
     padding-top: 430px;
@@ -115,10 +115,11 @@ main.login.register form input:nth-child(4) {
 }
 
 #home p {
-    color: #fff;
-    font-size: 18px;
+    color: #e668f2;
+    font-size: 35px;
     text-align: center;
     margin-bottom: 60px;
+    font-family: "Nerko One", cursive;
 }
 
 a.btn-home {
